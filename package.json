@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/luysla/Gulp.js/issues"
   },
-  "homepage": "https://github.com/luysla/Gulp.js#readme"
+  "homepage": "https://github.com/luysla/Gulp.js#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
 }
