@@ -1,0 +1,22 @@
+{
+  "name": "otimizando_com_gulp",
+  "version": "1.0.0",
+  "description": "Usando gulp.js para otimização",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luysla/Gulp.js.git"
+  },
+  "keywords": [
+    "Gulp"
+  ],
+  "author": "Dyana Tavares",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luysla/Gulp.js/issues"
+  },
+  "homepage": "https://github.com/luysla/Gulp.js#readme"
+}
